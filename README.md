@@ -1,8 +1,10 @@
 # C-leak-check
 
 Compile:
-  make
+
+    make
   
-Test
-  make run
+Test:
+
+    make run
 
